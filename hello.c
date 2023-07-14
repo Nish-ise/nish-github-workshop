@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
-         printf("hello world!");
+         printf("hello world!") ;
+// include stdio
          return 0;
 }
